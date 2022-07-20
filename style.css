@@ -766,7 +766,7 @@ h4 {
     padding: 0;
 }
 
-.portfolio-thumb {
+.img-responsive.portfolio-thumb {
     /* margin-bottom: 24px; */
     height: 300px;
     min-width: 300px;

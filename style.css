@@ -323,15 +323,30 @@ a:hover {
 
 .navbar .nav {
     padding-top: 2px;
-    margin-right: -16px;
-    float: right;
+    /* margin-right: -16px; */
+    /* float: right; */
+    padding-right: 5%;
     z-index: 1;
+}
+
+#bloc-0 {
+    padding: 0 20px;
+}
+
+ul {
+    list-style-type: none;
 }
 
 .nav>li {
     float: left;
     margin-top: 4px;
     font-size: 16px;
+    margin-right: 20px;
+}
+
+.nav li a {
+    padding: 10px;
+    text-decoration: none;
 }
 
 .navbar-nav .open .dropdown-menu>li>a {
@@ -521,7 +536,11 @@ button {
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
+    height: 35px;
+    margin: 0 0 10px 0;
+    width: 100%;
 }
+
 
 .scrollToTop {
     width: 40px;

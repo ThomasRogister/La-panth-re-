@@ -777,7 +777,6 @@ h4 {
 }
 
 .col-sm-6 {
-    height: 445px;
     width: 300px;
     padding: 0;
 }
@@ -851,12 +850,12 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #f37758;
-    color: #FFFFFF !important;
+    color: #000000 !important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #eb966f !important;
-    color: #aa1e1e !important;
+    background: #aa1e1e !important;
+    color: #ffffff !important;
 }
 
 .ltc-white {

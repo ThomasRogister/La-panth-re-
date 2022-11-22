@@ -1,4 +1,4 @@
-![](img/logo.png)
+![](16450043954887_cover%20small.png)
 # "La Panthère" is the third project of the OpenClassrooms Dev Web courses.
 ## In this project, he was asked to make an SEO improvement of a webdesign website
 ![](home%20page%20la%20panthère.png)
